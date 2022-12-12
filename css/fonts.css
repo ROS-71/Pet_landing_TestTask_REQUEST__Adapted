@@ -1,0 +1,55 @@
+@font-face {
+	font-family: 'MyriadPro_Reg';
+	src: url('/fonts/MyriadPro_Reg.eot');
+	src: url('/fonts/MyriadPro_Reg.eot') format('embedded-opentype'),
+		 url('/fonts/MyriadPro_Reg.woff') format('woff'),
+		 url('/fonts/MyriadPro_Reg.ttf') format('truetype'),
+		 url('/fonts/MyriadPro_Reg.svg#MyriadPro_Reg') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'MyriadPro_Light';
+	src: url('/fonts/MyriadProLightSemiExtended.eot');
+	src: url('/fonts/MyriadProLightSemiExtended.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/MyriadPro_Light_SemiExtended.woff') format('woff'),
+		 url('/fonts/MyriadPro_Light_SemiExtended.ttf') format('truetype'),
+		 url('/fonts/MyriadPro_Light_SemiExtended.svg#MyriadPro_Light_SemiExtended') format('svg');
+	font-style: normal;
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: 'MyriadPro_SEM_BOLD';
+	src: url('/fonts/MyriadPro_SEMIBOLD.eot');
+	src: url('/fonts/MyriadPro_SEMIBOLD.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts/MyriadPro_SEMIBOLD.woff') format('woff'),
+		 url('/fonts/MyriadPro_SEMIBOLD.ttf') format('truetype'),
+		 url('/fonts/MyriadPro_SEMIBOLD.svg#MyriadPro_SEM_BOLD') format('svg');
+	font-style: normal;
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: 'Helvetica_Neue_Cyr';
+	src: url('/fonts/Helvetica_Neue_Cyr.eot');
+	src: url('/fonts/Helvetica_Neue_Cyr.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts//fonts/Helvetica_Neue_Cyr.woff') format('woff'),
+		 url('/fonts//fonts/Helvetica_Neue_Cyr.FileName.ttf') format('truetype'),
+		 url('/fonts//fonts/Helvetica_Neue_Cyr.FileName.svg#Helvetica_Neue_Cyr') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'sf-ui-display-light';
+	src: url('/fonts/sf-ui-display-light.eot');
+	src: url('/fonts/sf-ui-display-light.eot?#iefix') format('embedded-opentype'),
+		 url('/fonts//fonts/sf-ui-display-light.woff') format('woff'),
+		 url('/fonts//fonts/sf-ui-display-light.ttf') format('truetype'),
+		 url('/fonts//fonts/sf-ui-display-light.svg#sf-ui-display-light') format('svg');
+	font-style: normal;
+	font-weight: 300;
+}
+
