@@ -132,6 +132,9 @@ body page header .search__bar .container .search__row .search .search__row_item 
 body page header .search__bar .container .search__row .search .search__row_item a img {
   margin: -24px 9px 0 1px;
 }
+body page header .search__bar .container .search__row .search .search__row_item a p {
+  margin: -10px 0 0 52px;
+}
 body page header .search__bar .container .search__row .search .search__row_item img {
   width: 40px;
   height: 40px;
